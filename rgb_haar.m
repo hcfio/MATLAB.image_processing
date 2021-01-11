@@ -1,5 +1,5 @@
 % load image file
-I=imread('shaved_ice.jpg');
+I=imread('rgb.jpg');
 RGB=imresize(I, 1/5);
 [R,G,B] = imsplit(RGB);
 % imshow(RGB)
