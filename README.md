@@ -1,6 +1,5 @@
 # MATLAB.samples
 Here are some MATLAB programs. 
-- data_mhlw.m
-  The graphics of the official data of COVID-19 in Japan
-- sir_mhlw.m
-  The IVP of SIR model for COVID-19 in Japan
+- data_mhlw.m, sir_mhlw.m:   
+  Information processing of the official data of COVID-19 in Japan
+- discrete_time_signal.m, dft.m, dft_shifted.m, spectrogram.m: discrete Fourier analysis
