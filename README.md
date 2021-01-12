@@ -7,3 +7,4 @@ Here are some examples of MATLAB programs for image processing of RGB images.
   multiresolution decomposition
 - rgb_svd.m
   singular value decomposition
+- *.png results
